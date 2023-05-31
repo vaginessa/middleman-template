@@ -36,7 +36,7 @@ GEM
     favicon_maker (1.1.1)
       docile (~> 1.1)
       mini_magick (~> 3.5)
-    ffi (1.9.6)
+    ffi (1.15.5)
     haml (4.0.6)
       tilt
     hike (1.2.3)
